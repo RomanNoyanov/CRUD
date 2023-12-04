@@ -77,6 +77,7 @@ o	2 – доступ администратора.
 
 ![image](https://github.com/RomanNoyanov/CRUD/assets/67968329/be7775e5-0a56-43e2-a3af-eaa5ea4b9052)
 
+**Вход на сайт**
 
 ![image](https://github.com/RomanNoyanov/CRUD/assets/67968329/2a028b19-f9da-4bbc-840b-b3c1da4782e1)
 
